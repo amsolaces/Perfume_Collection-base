@@ -120,4 +120,15 @@ backend/
 <img width="1899" height="964" alt="image" src="https://github.com/user-attachments/assets/473d3f5b-6e6f-445f-aa27-fa06a11e13e7" />
 (dashboard)
 
+<img width="1910" height="857" alt="image" src="https://github.com/user-attachments/assets/a073dce4-2abf-4d2d-b4a5-0e8393ab1546" />
+(login page)
+
+<img width="1907" height="921" alt="image" src="https://github.com/user-attachments/assets/304b7673-598a-40d1-90ec-2da59ca3048e" />
+(signup page)
+
+<img width="1910" height="860" alt="image" src="https://github.com/user-attachments/assets/c938b21a-49ea-4b6c-92a7-7ec4ebcb427c" />
+(cart page)
+
+
+
 
